@@ -22,5 +22,10 @@ export default () => (
       avatar="https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg"
       excerpt="I'm Jane Doe. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     />
+    <User
+      username="John Doe"
+      avatar="https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg"
+      excerpt="I'm John Doe. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    />
   </Container>
 )
